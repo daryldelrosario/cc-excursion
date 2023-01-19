@@ -1,10 +1,10 @@
 * {
-    padding: 0px;
+    padding: 11px 0px;
     margin: 0;
     box-sizing: border-box;
 
     /* For visual purposes - feel free to toggle */
-    border: 1px red solid;
+    /* border: 1px red solid;*/
 }
 
 body {
@@ -37,7 +37,9 @@ section p {
 footer p {
     color: gray;
     text-align: right;
+    padding: 13px;
 }
+
 .download {
     color: aquamarine;
     font-size: 16px;
