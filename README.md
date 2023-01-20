@@ -8,4 +8,4 @@ Landing page for a fictional product called Excursion. Main objective was to foc
 * designed from a redline mockup
 * includes personalised contact footer
 
-<img src="./resources/images/excursion_redline.png" alt="redline mockup" style="width: 70%">
+<img src="./resources/images/excursion_redline.png" alt="redline mockup" style="width: 40%">
