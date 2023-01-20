@@ -5,6 +5,7 @@ Landing page for a fictional product called Excursion. Main objective was to foc
 <kbd><img src="./resources/videos/excursion-ld.gif" alt="live demo gif"></kbd>
 
 ## Features
-* designed from a redline mockup   
+* designed from a redline mockup
+* includes personalised contact footer
 
-<img src="./resources/images/excursion_redline.png" alt="redline mockup" style="width: 50%">
+<div style="text-align: center"><img src="./resources/images/excursion_redline.png" alt="redline mockup" style="width: 50%"><div>
